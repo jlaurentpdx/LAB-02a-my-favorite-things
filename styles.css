@@ -1,0 +1,41 @@
+* {
+    box-sizing:border-box;
+    text-align: center;
+}
+
+body {
+    background-color:#CD9751;    
+    color: #EBDDCC;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+h1, h2{
+    font-family: 'Indie Flower', cursive;
+    font-size: 3rem;
+    line-height: 0.8;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+img { 
+    border:5px solid #8C3E1A;
+    border-radius: 2%;
+    width: 100%;
+    max-width: 600px;
+}
+
+a {
+    color: #57737A;
+}
+
+a:hover {
+    color: #2F6690;  
+}
